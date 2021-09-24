@@ -1,0 +1,19 @@
+
+TITANS Foundation - Web Development Internship
+
+ As mentioned in our project section, I've add all that sections i.e 
+ 
+ 1) Home page (With a slider showing latest courses)
+ 2) Course-detail page (Including user ratings)
+ 3) User-register & login page (For new users)
+ 4) About page (Details about the website company here you can keep dummy data)
+ 5) Cart page (Courses added to cart)
+ 6)Checkout page (Keep a checkout button for submitting order and provide a pop-up
+   as ‘Order confirmed !’ to display then redirect to home page)
+
+ I've also added some extra section like Map.
+ 
+ Here is my project link.
+ 
+GIT link:- https://github.com/AINS11/web_developer.git
+
